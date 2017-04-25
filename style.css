@@ -1,4 +1,5 @@
 body{
+
 background: pink;
 border: dotted;
 border-color: dodgerblue;
@@ -17,6 +18,12 @@ datalist{
     font-family: helvitica
 }
 card{
-    color: #66bb6a;
+   color: #66bb6a;
+    
 }
-          
+
+.card-title {
+    color: black !important;
+    
+}
+    
